@@ -1,0 +1,14 @@
+{
+  "name": "pdf_text_extractor",
+  "version": "1.0.0",
+  "description": "a node function to extract and return text from a base64 pdf file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Silver",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}
